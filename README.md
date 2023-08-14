@@ -1,19 +1,22 @@
 # reto-front-end
 
-## Project setup
+###Proyecto creado con Vue cli 5.0.8
+###node version 18.12.1
+
+## Preparar configuración del proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar el proyecto en modo desarollador
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para producción
 ```
 npm run build
 ```
 
-### Customize configuration
+### Referencia de la configuración
 See [Configuration Reference](https://cli.vuejs.org/config/).
